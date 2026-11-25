@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Philidor</string>
+    <string name="white">Blancs</string>
+    <string name="black">Noirs</string>
+    <string name="hasardus">Hasard</string>
+    <string name="your_color">Votre couleur</string>
+    <string name="creativity">Créativité</string>
+    <string name="title">Philidor 51M</string>
+    <string name="description">Une IA d\'échecs dans votre téléphone</string>
+    <string name="careful">prudent</string>
+    <string name="surprising">surprenant</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="history">Historique des parties</string>
+    <string name="slider_crea">creativite</string>
+    <string name="history_2">Historique</string>
+    <string name="joueur">Joueur</string>
+    <string name="philidor">Philidor</string>
+
+    <string name="party_null">Nulle</string>
+    <string name="party_win">Victoire</string>
+    <string name="party_lost">Défaite</string>
+
+    <plurals name="party_win_pl">
+        <item quantity="one">%d victoire</item>
+        <item quantity="other">%d victoires</item>
+    </plurals>
+    <string name="abandon">Abandonner la partie ?</string>
+    <string name="abandon_desc">La partie sera considérée comme perdue</string>
+    <string name="yes">oui</string>
+    <string name="no">Non</string>
 </resources>

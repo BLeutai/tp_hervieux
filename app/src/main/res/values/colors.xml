@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name ="vert">#1F794C</color>
-    <color name="vertpale">#C8E9D6FF</color>
     <color name="black">#FF000000</color>
-    <color name="blanc">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#113C11</color>
+    <color name="green_light">#DCEEEC</color>
+    <color name="grisclair">#F0F0F2</color>
+    <color name="grissombre">#6B6B6B</color>
+    <color name="green_medium">#5D7F2B</color>
+    <color name="red">#B24434</color>
+    <color name="grey">#93A2B6</color>
 </resources>
